@@ -1,6 +1,5 @@
-from word_processor import wordprocessor
+from word_processor import WordProcessor
 word_processor = WordProcessor()
-
 
 def test_count_alphabets():
     text = "Hello World 123"
