@@ -1,7 +1,7 @@
 # test_wordprocessor.py
 
 import pytest
-from wordprocessor import WordProcessor
+from word_processor import WordProcessor
 
 def test_integration_replace_and_count_and_palindrome():
     processor = WordProcessor()
